@@ -1,0 +1,2 @@
+friends:null0_nill,aut0_istic,ToTdennab,notfranjz,gamesenseIRL,paravozTHOMAS,BAM0_PIZDA,Eve17384963,SttpS_1,yougame_biz,QuarantineZRally,QuarantineZRally2,QuarantineZRally3,FinnyProto,willyIlliation,BigWilNation,BigWilNation2,BigWilNation3,willyIlliation2,willyIlliation4,QuarantineZRally6,shadwerg48,QuarantineZRally7,QuarantineZRally8,QuarantineZRally9,QuarantineZRally11,QuarantineZRally12,QuarantineZRally13,TheDarious777,
+priority:SttpS_1,hahahah5767565,
